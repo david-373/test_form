@@ -78,7 +78,8 @@ export default {
     background-color: #fff
     position: relative
     width: 350px
-    margin: 25% auto
+    margin: auto
+    top: 30%
     border-radius: 10px
     z-index: 2
     .body
